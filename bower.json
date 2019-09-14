@@ -1,0 +1,21 @@
+{
+  "name": "particles.js",
+  "main": "particles.js",
+  "homepage": "",
+  "authors": [
+    "Kartik wakekar <kartikwakekar9999@gmail.com>"
+  ],
+  "description": "A lightweight JavaScript library for creating particles.",
+  "keywords": [
+    "particle",
+    "particles"
+  ],
+  "license": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
